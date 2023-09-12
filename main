@@ -1,0 +1,6 @@
+#Made by Maximilien CLoutier
+#Made in 2023
+#Code du TP 1
+
+def wordcounter():
+    phrase = str(input("Entrer votre phrase: \n"))
